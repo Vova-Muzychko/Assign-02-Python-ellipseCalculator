@@ -1,11 +1,12 @@
-
 # Created by Vova M
 # Ellipse Calculator
 
 print("============================================================ ")
 print("Welcome to the Ellipse Calculator!")
 print("============================================================ ")
-print("This program calculates the Area and Perimeter of an ellipse using its two unique dimensions")
+print(
+    "This program calculates the Area and Perimeter of an ellipse using its two unique dimensions"
+)
 print("- Semi-major axis (a)")
 print("- Semi-minor axis (b)")
 print("Let's begin! ")
